@@ -1,4 +1,4 @@
-﻿﻿#Hackathon Rules
+# Hackathon Rules
 
 These are standard competition rules used at CFT Hacks. If you have a suggestion for these rules or a question about them, please email us at [cfthacks@cofounderstown.com](mailto:cfthacks@cofounderstown.com).
 
