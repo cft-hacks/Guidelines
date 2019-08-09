@@ -1,4 +1,4 @@
-﻿﻿# Hackathon Rules
+﻿﻿#Hackathon Rules
 
 These are standard competition rules used at CFT Hacks. If you have a suggestion for these rules or a question about them, please email us at [cfthacks@cofounderstown.com](mailto:cfthacks@cofounderstown.com).
 
@@ -38,12 +38,12 @@ Teams will be judged on these four criteria. Judges will weigh the criteria acco
 TOP 5 teams would be selected on the basis of the above mentioned criteria.
 All the teams are required to make their submission before 11:00 AM on 11 August, 2019. Along with the code, all the teams are required to submit a 6-10 slides pitch deck (presentation) which should include the following things:
 
--Problem Statement
--The Idea
--Vision
--Market Research
--Revenue Model
--Competition Analysis
+- Problem Statement
+- The Idea
+- Vision
+- Market Research
+- Revenue Model
+- Competition Analysis
 
  In the final round, the top 5 teams would deliver a 5-7 minute presentation to our judges who would then evaulate it on the basis of:
 
@@ -66,4 +66,4 @@ So don't worry about coming up with the next big idea or building the next Googl
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the CFT Hacks Team!
+__Happy Hacking from the CFT Hacks Team!__
